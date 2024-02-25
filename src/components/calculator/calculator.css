@@ -1,0 +1,35 @@
+.input-value {
+    height: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.select-value:hover,
+.input-value:hover {
+    border: 2px solid #7e00f5;
+}
+
+.select-value {
+    height: 52px;
+    width: 100px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+
+.result {
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+
+
+.result span {
+    color: green;
+}
